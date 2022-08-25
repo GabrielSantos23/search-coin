@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SearchCrypto/static/css/main.2208a4dd.css",
-    "main.js": "/SearchCrypto/static/js/main.f676808b.js",
-    "index.html": "/SearchCrypto/index.html",
-    "main.2208a4dd.css.map": "/SearchCrypto/static/css/main.2208a4dd.css.map",
-    "main.f676808b.js.map": "/SearchCrypto/static/js/main.f676808b.js.map"
+    "main.css": "/search-coin/static/css/main.2208a4dd.css",
+    "main.js": "/search-coin/static/js/main.f676808b.js",
+    "index.html": "/search-coin/index.html",
+    "main.2208a4dd.css.map": "/search-coin/static/css/main.2208a4dd.css.map",
+    "main.f676808b.js.map": "/search-coin/static/js/main.f676808b.js.map"
   },
   "entrypoints": [
     "static/css/main.2208a4dd.css",
