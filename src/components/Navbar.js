@@ -1,15 +1,15 @@
-import React from "react";
-import { FaCoins } from "react-icons/fa";
-import { Link } from "react-router-dom";
+import React from 'react';
+import { FaCoins } from 'react-icons/fa';
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
   return (
-    <Link to="/">
+    <Link to='/search-coin'>
       <div>
-        <div className="navbar">
-          <FaCoins className="icon" />
+        <div className='navbar'>
+          <FaCoins className='icon' />
           <h1>
-            Crypto <span className="purple">Search</span>
+            Crypto <span className='purple'>Search</span>
           </h1>
         </div>
       </div>
